@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Jhoyce Perez\\Documents\\Unreal Projects\\Bricks Braker\\Arcanoid\\Source\\Arcanoid\\Arcanoid.Build.cs",
+		"C:\\Users\\Jhoyce Perez\\Documents\\Unreal Projects\\Bricks Braker\\Arcanoid\\Source\\Arcanoid.Target.cs",
+		"C:\\Users\\Jhoyce Perez\\Documents\\Unreal Projects\\Bricks Braker\\Arcanoid\\Source\\ArcanoidEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

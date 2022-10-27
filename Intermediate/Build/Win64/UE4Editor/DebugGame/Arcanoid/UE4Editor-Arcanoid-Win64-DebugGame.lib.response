@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Arcanoid-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Jhoyce Perez\Documents\Unreal Projects\Bricks Braker\Arcanoid\Intermediate\Build\Win64\ArcanoidEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"C:\Users\Jhoyce Perez\Documents\Unreal Projects\Bricks Braker\Arcanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arcanoid\Arcanoid.cpp.obj"
+"C:\Users\Jhoyce Perez\Documents\Unreal Projects\Bricks Braker\Arcanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arcanoid\ArcanoidGameModeBase.cpp.obj"
+"C:\Users\Jhoyce Perez\Documents\Unreal Projects\Bricks Braker\Arcanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arcanoid\Ball.cpp.obj"
+"C:\Users\Jhoyce Perez\Documents\Unreal Projects\Bricks Braker\Arcanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arcanoid\Brick.cpp.obj"
+"C:\Users\Jhoyce Perez\Documents\Unreal Projects\Bricks Braker\Arcanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arcanoid\Paddle.cpp.obj"
+"C:\Users\Jhoyce Perez\Documents\Unreal Projects\Bricks Braker\Arcanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arcanoid\PaddlePlayerController.cpp.obj"
+"C:\Users\Jhoyce Perez\Documents\Unreal Projects\Bricks Braker\Arcanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arcanoid\Arcanoid.init.gen.cpp.obj"
+"C:\Users\Jhoyce Perez\Documents\Unreal Projects\Bricks Braker\Arcanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arcanoid\ArcanoidGameModeBase.gen.cpp.obj"
+"C:\Users\Jhoyce Perez\Documents\Unreal Projects\Bricks Braker\Arcanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arcanoid\Ball.gen.cpp.obj"
+"C:\Users\Jhoyce Perez\Documents\Unreal Projects\Bricks Braker\Arcanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arcanoid\Brick.gen.cpp.obj"
+"C:\Users\Jhoyce Perez\Documents\Unreal Projects\Bricks Braker\Arcanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arcanoid\Paddle.gen.cpp.obj"
+"C:\Users\Jhoyce Perez\Documents\Unreal Projects\Bricks Braker\Arcanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arcanoid\PaddlePlayerController.gen.cpp.obj"
+"C:\Users\Jhoyce Perez\Documents\Unreal Projects\Bricks Braker\Arcanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arcanoid\Default.rc2.res"
+/OUT:"C:\Users\Jhoyce Perez\Documents\Unreal Projects\Bricks Braker\Arcanoid\Intermediate\Build\Win64\UE4Editor\DebugGame\Arcanoid\UE4Editor-Arcanoid-Win64-DebugGame.lib"

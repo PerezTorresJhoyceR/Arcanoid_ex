@@ -1,0 +1,2 @@
+C:\Users\Jhoyce Perez\Documents\Unreal Projects\Bricks Braker\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Definitions.Arcanoid.h
+C:\Users\Jhoyce Perez\Documents\Unreal Projects\Bricks Braker\Arcanoid\Source\Arcanoid\Arcanoid.h

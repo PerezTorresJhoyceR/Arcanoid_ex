@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Arcanoid",
+			"Path": "C:\\Users\\Jhoyce Perez\\Documents\\Unreal Projects\\Bricks Braker\\Arcanoid\\Source\\Arcanoid.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ArcanoidEditor",
+			"Path": "C:\\Users\\Jhoyce Perez\\Documents\\Unreal Projects\\Bricks Braker\\Arcanoid\\Source\\ArcanoidEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
